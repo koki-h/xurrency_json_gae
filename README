@@ -1,3 +1,4 @@
 This is a GAE application converting rss feed from Xurrency.com to JSON.
+JSON data are cached in GAE sever. They will be updated every 5 minutes.
 Written by koki-h (koki hashimoto, gohannnotomo@gmail.com)
 
