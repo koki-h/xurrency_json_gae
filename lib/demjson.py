@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-""" A JSON data encoder and decoder.
+r""" A JSON data encoder and decoder.
 
  This Python module implements the JSON (http://json.org/) data
  encoding format; a subset of ECMAScript (aka JavaScript) for encoding
